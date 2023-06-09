@@ -2,6 +2,7 @@
 terraform
 
 #run below steps
+
 export AWS_ACCESS_KEY_ID="xxxxxxxxxxxxxxx" #your aws access key
 
 export AWS_SECRET_ACCESS_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxx" # your aws secret key
